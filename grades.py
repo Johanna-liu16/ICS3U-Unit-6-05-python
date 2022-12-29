@@ -4,6 +4,7 @@
 # Created on: Dec 2022
 # This program calculates the average
 
+
 def average_mark(marks):
     # This function finds the average
 
